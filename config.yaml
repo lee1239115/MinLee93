@@ -1,0 +1,38 @@
+title: Min Kyung Lee
+baseURL: https://example.com/
+theme: hugo-resume
+languageCode: en-us
+PygmentsCodeFences: yes
+PygmentsCodeFencesGuessSyntax: yes
+PygmentsStyle: monokai
+enableGitInfo: no
+params:
+  address: West Lafayette, IN
+  email: lee1239@purdue.edu
+  favicon: /favicon.ico
+  firstName: Min
+  google:
+    analytics:
+      trackerID: XX-123446-01
+  handles:
+    - link: https://www.linkedin.com/in/min-kyung-lee-579674172/
+      name: LinkedIn
+    - link: https://github.com/lee1239115
+      name: GitHub
+    - link: https://engineering.purdue.edu/SOS/about-yih
+      name: ResearchLab
+  phone: 1-754-421-5994
+  profileImage: img/aa.jpg
+  showEducation: yes
+  showExperience: yes
+  showOpenSource: yes
+  showProjects: yes
+  showPublications: yes
+  showQr: no
+  showSkills: yes
+outputs:
+  home:
+    - HTML
+    - JSON
+taxonomies:
+  tag: tags

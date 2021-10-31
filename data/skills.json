@@ -1,0 +1,14 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Python","javascript", "MySQL", "MATLAB"]
+  },
+  {
+      "grouping":"Statistical Programming",
+      "skills":[ "R", "STATA"]
+  },
+  {
+      "grouping":"Simulation Modeling",
+      "skills":[ "R", "Rockwell Arena"]
+  }
+]

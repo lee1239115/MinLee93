@@ -1,0 +1,28 @@
+[
+    {
+        "school":"[Purdue University](https://purdue.edu)",
+        "degree":"Bachelor of Engineering",
+        "major":"Industrial Engineering",
+        "notes":"Academic Honors Awards",
+        "range":"2011 - 2016"
+    },
+    {
+        "school":"[Purdue University](https://purdue.edu)",
+        "degree":"Master of Engineering",
+        "major":"Industrial Engineering",
+        "notes":"Thesis Track",
+        "range":"2017-2018"
+    },
+    {
+        "school":"[Purdue University](https://purdue.edu)",
+        "degree":"Doctor of Philosophy",
+        "major":"Industrial Engineering",
+        "range":"2018-2023"
+    },
+    {
+        "school":"[Purdue University](https://purdue.edu)",
+        "degree":"Master of Science",
+        "major":"Applied Statistics",
+        "range":"2021 - 2023"
+    }
+]
